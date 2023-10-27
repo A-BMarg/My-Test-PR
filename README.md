@@ -1,2 +1,2 @@
 # My-Test-PR
-Test PR exercise
+This is a test repo for the practicals
